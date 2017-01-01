@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Langlarm</string>
+    <string name="setAlarm">Set alarm</string>
+    <string name="solveButton">Solve</string>
+    <string name="stop_alarm">Stop</string>
+    <string name="nap">Drzemka</string>
+    <string name="addAlarm">Add alarm</string>
+</resources>
